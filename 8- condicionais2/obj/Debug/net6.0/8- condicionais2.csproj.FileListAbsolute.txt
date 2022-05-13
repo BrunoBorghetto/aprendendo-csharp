@@ -1,0 +1,15 @@
+C:\Users\ALUNO - CT SISTEMA\OneDrive - SESISENAISP - Escolas\Documentos\logica\C#\aprendendo csharp\8- condicionais2\bin\Debug\net6.0\8- condicionais2.exe
+C:\Users\ALUNO - CT SISTEMA\OneDrive - SESISENAISP - Escolas\Documentos\logica\C#\aprendendo csharp\8- condicionais2\bin\Debug\net6.0\8- condicionais2.deps.json
+C:\Users\ALUNO - CT SISTEMA\OneDrive - SESISENAISP - Escolas\Documentos\logica\C#\aprendendo csharp\8- condicionais2\bin\Debug\net6.0\8- condicionais2.runtimeconfig.json
+C:\Users\ALUNO - CT SISTEMA\OneDrive - SESISENAISP - Escolas\Documentos\logica\C#\aprendendo csharp\8- condicionais2\bin\Debug\net6.0\8- condicionais2.dll
+C:\Users\ALUNO - CT SISTEMA\OneDrive - SESISENAISP - Escolas\Documentos\logica\C#\aprendendo csharp\8- condicionais2\bin\Debug\net6.0\8- condicionais2.pdb
+C:\Users\ALUNO - CT SISTEMA\OneDrive - SESISENAISP - Escolas\Documentos\logica\C#\aprendendo csharp\8- condicionais2\obj\Debug\net6.0\8- condicionais2.csproj.AssemblyReference.cache
+C:\Users\ALUNO - CT SISTEMA\OneDrive - SESISENAISP - Escolas\Documentos\logica\C#\aprendendo csharp\8- condicionais2\obj\Debug\net6.0\8- condicionais2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ALUNO - CT SISTEMA\OneDrive - SESISENAISP - Escolas\Documentos\logica\C#\aprendendo csharp\8- condicionais2\obj\Debug\net6.0\8- condicionais2.AssemblyInfoInputs.cache
+C:\Users\ALUNO - CT SISTEMA\OneDrive - SESISENAISP - Escolas\Documentos\logica\C#\aprendendo csharp\8- condicionais2\obj\Debug\net6.0\8- condicionais2.AssemblyInfo.cs
+C:\Users\ALUNO - CT SISTEMA\OneDrive - SESISENAISP - Escolas\Documentos\logica\C#\aprendendo csharp\8- condicionais2\obj\Debug\net6.0\8- condicionais2.csproj.CoreCompileInputs.cache
+C:\Users\ALUNO - CT SISTEMA\OneDrive - SESISENAISP - Escolas\Documentos\logica\C#\aprendendo csharp\8- condicionais2\obj\Debug\net6.0\8- condicionais2.dll
+C:\Users\ALUNO - CT SISTEMA\OneDrive - SESISENAISP - Escolas\Documentos\logica\C#\aprendendo csharp\8- condicionais2\obj\Debug\net6.0\refint\8- condicionais2.dll
+C:\Users\ALUNO - CT SISTEMA\OneDrive - SESISENAISP - Escolas\Documentos\logica\C#\aprendendo csharp\8- condicionais2\obj\Debug\net6.0\8- condicionais2.pdb
+C:\Users\ALUNO - CT SISTEMA\OneDrive - SESISENAISP - Escolas\Documentos\logica\C#\aprendendo csharp\8- condicionais2\obj\Debug\net6.0\8- condicionais2.genruntimeconfig.cache
+C:\Users\ALUNO - CT SISTEMA\OneDrive - SESISENAISP - Escolas\Documentos\logica\C#\aprendendo csharp\8- condicionais2\obj\Debug\net6.0\ref\8- condicionais2.dll

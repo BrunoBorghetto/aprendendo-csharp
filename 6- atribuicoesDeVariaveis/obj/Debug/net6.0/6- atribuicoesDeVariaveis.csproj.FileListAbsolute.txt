@@ -1,0 +1,15 @@
+C:\Users\ALUNO - CT SISTEMA\OneDrive - SESISENAISP - Escolas\Documentos\logica\C#\aprendendo csharp\6- atribuicoesDeVariaveis\bin\Debug\net6.0\6- atribuicoesDeVariaveis.exe
+C:\Users\ALUNO - CT SISTEMA\OneDrive - SESISENAISP - Escolas\Documentos\logica\C#\aprendendo csharp\6- atribuicoesDeVariaveis\bin\Debug\net6.0\6- atribuicoesDeVariaveis.deps.json
+C:\Users\ALUNO - CT SISTEMA\OneDrive - SESISENAISP - Escolas\Documentos\logica\C#\aprendendo csharp\6- atribuicoesDeVariaveis\bin\Debug\net6.0\6- atribuicoesDeVariaveis.runtimeconfig.json
+C:\Users\ALUNO - CT SISTEMA\OneDrive - SESISENAISP - Escolas\Documentos\logica\C#\aprendendo csharp\6- atribuicoesDeVariaveis\bin\Debug\net6.0\6- atribuicoesDeVariaveis.dll
+C:\Users\ALUNO - CT SISTEMA\OneDrive - SESISENAISP - Escolas\Documentos\logica\C#\aprendendo csharp\6- atribuicoesDeVariaveis\bin\Debug\net6.0\6- atribuicoesDeVariaveis.pdb
+C:\Users\ALUNO - CT SISTEMA\OneDrive - SESISENAISP - Escolas\Documentos\logica\C#\aprendendo csharp\6- atribuicoesDeVariaveis\obj\Debug\net6.0\6- atribuicoesDeVariaveis.csproj.AssemblyReference.cache
+C:\Users\ALUNO - CT SISTEMA\OneDrive - SESISENAISP - Escolas\Documentos\logica\C#\aprendendo csharp\6- atribuicoesDeVariaveis\obj\Debug\net6.0\6- atribuicoesDeVariaveis.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ALUNO - CT SISTEMA\OneDrive - SESISENAISP - Escolas\Documentos\logica\C#\aprendendo csharp\6- atribuicoesDeVariaveis\obj\Debug\net6.0\6- atribuicoesDeVariaveis.AssemblyInfoInputs.cache
+C:\Users\ALUNO - CT SISTEMA\OneDrive - SESISENAISP - Escolas\Documentos\logica\C#\aprendendo csharp\6- atribuicoesDeVariaveis\obj\Debug\net6.0\6- atribuicoesDeVariaveis.AssemblyInfo.cs
+C:\Users\ALUNO - CT SISTEMA\OneDrive - SESISENAISP - Escolas\Documentos\logica\C#\aprendendo csharp\6- atribuicoesDeVariaveis\obj\Debug\net6.0\6- atribuicoesDeVariaveis.csproj.CoreCompileInputs.cache
+C:\Users\ALUNO - CT SISTEMA\OneDrive - SESISENAISP - Escolas\Documentos\logica\C#\aprendendo csharp\6- atribuicoesDeVariaveis\obj\Debug\net6.0\6- atribuicoesDeVariaveis.dll
+C:\Users\ALUNO - CT SISTEMA\OneDrive - SESISENAISP - Escolas\Documentos\logica\C#\aprendendo csharp\6- atribuicoesDeVariaveis\obj\Debug\net6.0\refint\6- atribuicoesDeVariaveis.dll
+C:\Users\ALUNO - CT SISTEMA\OneDrive - SESISENAISP - Escolas\Documentos\logica\C#\aprendendo csharp\6- atribuicoesDeVariaveis\obj\Debug\net6.0\6- atribuicoesDeVariaveis.pdb
+C:\Users\ALUNO - CT SISTEMA\OneDrive - SESISENAISP - Escolas\Documentos\logica\C#\aprendendo csharp\6- atribuicoesDeVariaveis\obj\Debug\net6.0\6- atribuicoesDeVariaveis.genruntimeconfig.cache
+C:\Users\ALUNO - CT SISTEMA\OneDrive - SESISENAISP - Escolas\Documentos\logica\C#\aprendendo csharp\6- atribuicoesDeVariaveis\obj\Debug\net6.0\ref\6- atribuicoesDeVariaveis.dll

@@ -1,0 +1,15 @@
+C:\Users\ALUNO - CT SISTEMA\OneDrive - SESISENAISP - Escolas\Documentos\logica\C#\aprendendo csharp\3-criandoVariaveis.futuantes\bin\Debug\net6.0\3-criandoVariaveis.futuantes.exe
+C:\Users\ALUNO - CT SISTEMA\OneDrive - SESISENAISP - Escolas\Documentos\logica\C#\aprendendo csharp\3-criandoVariaveis.futuantes\bin\Debug\net6.0\3-criandoVariaveis.futuantes.deps.json
+C:\Users\ALUNO - CT SISTEMA\OneDrive - SESISENAISP - Escolas\Documentos\logica\C#\aprendendo csharp\3-criandoVariaveis.futuantes\bin\Debug\net6.0\3-criandoVariaveis.futuantes.runtimeconfig.json
+C:\Users\ALUNO - CT SISTEMA\OneDrive - SESISENAISP - Escolas\Documentos\logica\C#\aprendendo csharp\3-criandoVariaveis.futuantes\bin\Debug\net6.0\3-criandoVariaveis.futuantes.dll
+C:\Users\ALUNO - CT SISTEMA\OneDrive - SESISENAISP - Escolas\Documentos\logica\C#\aprendendo csharp\3-criandoVariaveis.futuantes\bin\Debug\net6.0\3-criandoVariaveis.futuantes.pdb
+C:\Users\ALUNO - CT SISTEMA\OneDrive - SESISENAISP - Escolas\Documentos\logica\C#\aprendendo csharp\3-criandoVariaveis.futuantes\obj\Debug\net6.0\3-criandoVariaveis.futuantes.csproj.AssemblyReference.cache
+C:\Users\ALUNO - CT SISTEMA\OneDrive - SESISENAISP - Escolas\Documentos\logica\C#\aprendendo csharp\3-criandoVariaveis.futuantes\obj\Debug\net6.0\3-criandoVariaveis.futuantes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ALUNO - CT SISTEMA\OneDrive - SESISENAISP - Escolas\Documentos\logica\C#\aprendendo csharp\3-criandoVariaveis.futuantes\obj\Debug\net6.0\3-criandoVariaveis.futuantes.AssemblyInfoInputs.cache
+C:\Users\ALUNO - CT SISTEMA\OneDrive - SESISENAISP - Escolas\Documentos\logica\C#\aprendendo csharp\3-criandoVariaveis.futuantes\obj\Debug\net6.0\3-criandoVariaveis.futuantes.AssemblyInfo.cs
+C:\Users\ALUNO - CT SISTEMA\OneDrive - SESISENAISP - Escolas\Documentos\logica\C#\aprendendo csharp\3-criandoVariaveis.futuantes\obj\Debug\net6.0\3-criandoVariaveis.futuantes.csproj.CoreCompileInputs.cache
+C:\Users\ALUNO - CT SISTEMA\OneDrive - SESISENAISP - Escolas\Documentos\logica\C#\aprendendo csharp\3-criandoVariaveis.futuantes\obj\Debug\net6.0\3-criandoVariaveis.futuantes.dll
+C:\Users\ALUNO - CT SISTEMA\OneDrive - SESISENAISP - Escolas\Documentos\logica\C#\aprendendo csharp\3-criandoVariaveis.futuantes\obj\Debug\net6.0\refint\3-criandoVariaveis.futuantes.dll
+C:\Users\ALUNO - CT SISTEMA\OneDrive - SESISENAISP - Escolas\Documentos\logica\C#\aprendendo csharp\3-criandoVariaveis.futuantes\obj\Debug\net6.0\3-criandoVariaveis.futuantes.pdb
+C:\Users\ALUNO - CT SISTEMA\OneDrive - SESISENAISP - Escolas\Documentos\logica\C#\aprendendo csharp\3-criandoVariaveis.futuantes\obj\Debug\net6.0\3-criandoVariaveis.futuantes.genruntimeconfig.cache
+C:\Users\ALUNO - CT SISTEMA\OneDrive - SESISENAISP - Escolas\Documentos\logica\C#\aprendendo csharp\3-criandoVariaveis.futuantes\obj\Debug\net6.0\ref\3-criandoVariaveis.futuantes.dll

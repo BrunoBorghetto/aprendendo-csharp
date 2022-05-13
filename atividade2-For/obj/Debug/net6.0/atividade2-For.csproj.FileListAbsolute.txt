@@ -1,0 +1,15 @@
+C:\Users\ALUNO - CT SISTEMA\OneDrive - SESISENAISP - Escolas\Documentos\logica\C#\aprendendo csharp\atividade2-For\bin\Debug\net6.0\atividade2-For.exe
+C:\Users\ALUNO - CT SISTEMA\OneDrive - SESISENAISP - Escolas\Documentos\logica\C#\aprendendo csharp\atividade2-For\bin\Debug\net6.0\atividade2-For.deps.json
+C:\Users\ALUNO - CT SISTEMA\OneDrive - SESISENAISP - Escolas\Documentos\logica\C#\aprendendo csharp\atividade2-For\bin\Debug\net6.0\atividade2-For.runtimeconfig.json
+C:\Users\ALUNO - CT SISTEMA\OneDrive - SESISENAISP - Escolas\Documentos\logica\C#\aprendendo csharp\atividade2-For\bin\Debug\net6.0\atividade2-For.dll
+C:\Users\ALUNO - CT SISTEMA\OneDrive - SESISENAISP - Escolas\Documentos\logica\C#\aprendendo csharp\atividade2-For\bin\Debug\net6.0\atividade2-For.pdb
+C:\Users\ALUNO - CT SISTEMA\OneDrive - SESISENAISP - Escolas\Documentos\logica\C#\aprendendo csharp\atividade2-For\obj\Debug\net6.0\atividade2-For.csproj.AssemblyReference.cache
+C:\Users\ALUNO - CT SISTEMA\OneDrive - SESISENAISP - Escolas\Documentos\logica\C#\aprendendo csharp\atividade2-For\obj\Debug\net6.0\atividade2-For.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ALUNO - CT SISTEMA\OneDrive - SESISENAISP - Escolas\Documentos\logica\C#\aprendendo csharp\atividade2-For\obj\Debug\net6.0\atividade2-For.AssemblyInfoInputs.cache
+C:\Users\ALUNO - CT SISTEMA\OneDrive - SESISENAISP - Escolas\Documentos\logica\C#\aprendendo csharp\atividade2-For\obj\Debug\net6.0\atividade2-For.AssemblyInfo.cs
+C:\Users\ALUNO - CT SISTEMA\OneDrive - SESISENAISP - Escolas\Documentos\logica\C#\aprendendo csharp\atividade2-For\obj\Debug\net6.0\atividade2-For.csproj.CoreCompileInputs.cache
+C:\Users\ALUNO - CT SISTEMA\OneDrive - SESISENAISP - Escolas\Documentos\logica\C#\aprendendo csharp\atividade2-For\obj\Debug\net6.0\atividade2-For.dll
+C:\Users\ALUNO - CT SISTEMA\OneDrive - SESISENAISP - Escolas\Documentos\logica\C#\aprendendo csharp\atividade2-For\obj\Debug\net6.0\refint\atividade2-For.dll
+C:\Users\ALUNO - CT SISTEMA\OneDrive - SESISENAISP - Escolas\Documentos\logica\C#\aprendendo csharp\atividade2-For\obj\Debug\net6.0\atividade2-For.pdb
+C:\Users\ALUNO - CT SISTEMA\OneDrive - SESISENAISP - Escolas\Documentos\logica\C#\aprendendo csharp\atividade2-For\obj\Debug\net6.0\atividade2-For.genruntimeconfig.cache
+C:\Users\ALUNO - CT SISTEMA\OneDrive - SESISENAISP - Escolas\Documentos\logica\C#\aprendendo csharp\atividade2-For\obj\Debug\net6.0\ref\atividade2-For.dll

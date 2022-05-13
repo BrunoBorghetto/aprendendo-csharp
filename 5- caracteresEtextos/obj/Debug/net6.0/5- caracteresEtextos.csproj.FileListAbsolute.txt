@@ -1,0 +1,15 @@
+C:\Users\ALUNO - CT SISTEMA\OneDrive - SESISENAISP - Escolas\Documentos\logica\C#\aprendendo csharp\5- caracteresEtextos\bin\Debug\net6.0\5- caracteresEtextos.exe
+C:\Users\ALUNO - CT SISTEMA\OneDrive - SESISENAISP - Escolas\Documentos\logica\C#\aprendendo csharp\5- caracteresEtextos\bin\Debug\net6.0\5- caracteresEtextos.deps.json
+C:\Users\ALUNO - CT SISTEMA\OneDrive - SESISENAISP - Escolas\Documentos\logica\C#\aprendendo csharp\5- caracteresEtextos\bin\Debug\net6.0\5- caracteresEtextos.runtimeconfig.json
+C:\Users\ALUNO - CT SISTEMA\OneDrive - SESISENAISP - Escolas\Documentos\logica\C#\aprendendo csharp\5- caracteresEtextos\bin\Debug\net6.0\5- caracteresEtextos.dll
+C:\Users\ALUNO - CT SISTEMA\OneDrive - SESISENAISP - Escolas\Documentos\logica\C#\aprendendo csharp\5- caracteresEtextos\bin\Debug\net6.0\5- caracteresEtextos.pdb
+C:\Users\ALUNO - CT SISTEMA\OneDrive - SESISENAISP - Escolas\Documentos\logica\C#\aprendendo csharp\5- caracteresEtextos\obj\Debug\net6.0\5- caracteresEtextos.csproj.AssemblyReference.cache
+C:\Users\ALUNO - CT SISTEMA\OneDrive - SESISENAISP - Escolas\Documentos\logica\C#\aprendendo csharp\5- caracteresEtextos\obj\Debug\net6.0\5- caracteresEtextos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ALUNO - CT SISTEMA\OneDrive - SESISENAISP - Escolas\Documentos\logica\C#\aprendendo csharp\5- caracteresEtextos\obj\Debug\net6.0\5- caracteresEtextos.AssemblyInfoInputs.cache
+C:\Users\ALUNO - CT SISTEMA\OneDrive - SESISENAISP - Escolas\Documentos\logica\C#\aprendendo csharp\5- caracteresEtextos\obj\Debug\net6.0\5- caracteresEtextos.AssemblyInfo.cs
+C:\Users\ALUNO - CT SISTEMA\OneDrive - SESISENAISP - Escolas\Documentos\logica\C#\aprendendo csharp\5- caracteresEtextos\obj\Debug\net6.0\5- caracteresEtextos.csproj.CoreCompileInputs.cache
+C:\Users\ALUNO - CT SISTEMA\OneDrive - SESISENAISP - Escolas\Documentos\logica\C#\aprendendo csharp\5- caracteresEtextos\obj\Debug\net6.0\5- caracteresEtextos.dll
+C:\Users\ALUNO - CT SISTEMA\OneDrive - SESISENAISP - Escolas\Documentos\logica\C#\aprendendo csharp\5- caracteresEtextos\obj\Debug\net6.0\refint\5- caracteresEtextos.dll
+C:\Users\ALUNO - CT SISTEMA\OneDrive - SESISENAISP - Escolas\Documentos\logica\C#\aprendendo csharp\5- caracteresEtextos\obj\Debug\net6.0\5- caracteresEtextos.pdb
+C:\Users\ALUNO - CT SISTEMA\OneDrive - SESISENAISP - Escolas\Documentos\logica\C#\aprendendo csharp\5- caracteresEtextos\obj\Debug\net6.0\5- caracteresEtextos.genruntimeconfig.cache
+C:\Users\ALUNO - CT SISTEMA\OneDrive - SESISENAISP - Escolas\Documentos\logica\C#\aprendendo csharp\5- caracteresEtextos\obj\Debug\net6.0\ref\5- caracteresEtextos.dll

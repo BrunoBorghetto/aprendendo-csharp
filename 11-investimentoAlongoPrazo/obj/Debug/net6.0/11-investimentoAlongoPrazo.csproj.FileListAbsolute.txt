@@ -1,0 +1,15 @@
+C:\Users\ALUNO - CT SISTEMA\OneDrive - SESISENAISP - Escolas\Documentos\logica\C#\aprendendo csharp\11-investimentoAlongoPrazo\obj\Debug\net6.0\11-investimentoAlongoPrazo.csproj.AssemblyReference.cache
+C:\Users\ALUNO - CT SISTEMA\OneDrive - SESISENAISP - Escolas\Documentos\logica\C#\aprendendo csharp\11-investimentoAlongoPrazo\obj\Debug\net6.0\11-investimentoAlongoPrazo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ALUNO - CT SISTEMA\OneDrive - SESISENAISP - Escolas\Documentos\logica\C#\aprendendo csharp\11-investimentoAlongoPrazo\obj\Debug\net6.0\11-investimentoAlongoPrazo.AssemblyInfoInputs.cache
+C:\Users\ALUNO - CT SISTEMA\OneDrive - SESISENAISP - Escolas\Documentos\logica\C#\aprendendo csharp\11-investimentoAlongoPrazo\obj\Debug\net6.0\11-investimentoAlongoPrazo.AssemblyInfo.cs
+C:\Users\ALUNO - CT SISTEMA\OneDrive - SESISENAISP - Escolas\Documentos\logica\C#\aprendendo csharp\11-investimentoAlongoPrazo\obj\Debug\net6.0\11-investimentoAlongoPrazo.csproj.CoreCompileInputs.cache
+C:\Users\ALUNO - CT SISTEMA\OneDrive - SESISENAISP - Escolas\Documentos\logica\C#\aprendendo csharp\11-investimentoAlongoPrazo\bin\Debug\net6.0\11-investimentoAlongoPrazo.exe
+C:\Users\ALUNO - CT SISTEMA\OneDrive - SESISENAISP - Escolas\Documentos\logica\C#\aprendendo csharp\11-investimentoAlongoPrazo\bin\Debug\net6.0\11-investimentoAlongoPrazo.deps.json
+C:\Users\ALUNO - CT SISTEMA\OneDrive - SESISENAISP - Escolas\Documentos\logica\C#\aprendendo csharp\11-investimentoAlongoPrazo\bin\Debug\net6.0\11-investimentoAlongoPrazo.runtimeconfig.json
+C:\Users\ALUNO - CT SISTEMA\OneDrive - SESISENAISP - Escolas\Documentos\logica\C#\aprendendo csharp\11-investimentoAlongoPrazo\bin\Debug\net6.0\11-investimentoAlongoPrazo.dll
+C:\Users\ALUNO - CT SISTEMA\OneDrive - SESISENAISP - Escolas\Documentos\logica\C#\aprendendo csharp\11-investimentoAlongoPrazo\bin\Debug\net6.0\11-investimentoAlongoPrazo.pdb
+C:\Users\ALUNO - CT SISTEMA\OneDrive - SESISENAISP - Escolas\Documentos\logica\C#\aprendendo csharp\11-investimentoAlongoPrazo\obj\Debug\net6.0\11-investimentoAlongoPrazo.dll
+C:\Users\ALUNO - CT SISTEMA\OneDrive - SESISENAISP - Escolas\Documentos\logica\C#\aprendendo csharp\11-investimentoAlongoPrazo\obj\Debug\net6.0\refint\11-investimentoAlongoPrazo.dll
+C:\Users\ALUNO - CT SISTEMA\OneDrive - SESISENAISP - Escolas\Documentos\logica\C#\aprendendo csharp\11-investimentoAlongoPrazo\obj\Debug\net6.0\11-investimentoAlongoPrazo.pdb
+C:\Users\ALUNO - CT SISTEMA\OneDrive - SESISENAISP - Escolas\Documentos\logica\C#\aprendendo csharp\11-investimentoAlongoPrazo\obj\Debug\net6.0\11-investimentoAlongoPrazo.genruntimeconfig.cache
+C:\Users\ALUNO - CT SISTEMA\OneDrive - SESISENAISP - Escolas\Documentos\logica\C#\aprendendo csharp\11-investimentoAlongoPrazo\obj\Debug\net6.0\ref\11-investimentoAlongoPrazo.dll

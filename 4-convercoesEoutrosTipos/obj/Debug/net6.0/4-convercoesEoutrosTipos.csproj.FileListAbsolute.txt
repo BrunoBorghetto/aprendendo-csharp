@@ -1,0 +1,15 @@
+C:\Users\ALUNO - CT SISTEMA\OneDrive - SESISENAISP - Escolas\Documentos\logica\C#\aprendendo csharp\4-convercoesEoutrosTipos\bin\Debug\net6.0\4-convercoesEoutrosTipos.exe
+C:\Users\ALUNO - CT SISTEMA\OneDrive - SESISENAISP - Escolas\Documentos\logica\C#\aprendendo csharp\4-convercoesEoutrosTipos\bin\Debug\net6.0\4-convercoesEoutrosTipos.deps.json
+C:\Users\ALUNO - CT SISTEMA\OneDrive - SESISENAISP - Escolas\Documentos\logica\C#\aprendendo csharp\4-convercoesEoutrosTipos\bin\Debug\net6.0\4-convercoesEoutrosTipos.runtimeconfig.json
+C:\Users\ALUNO - CT SISTEMA\OneDrive - SESISENAISP - Escolas\Documentos\logica\C#\aprendendo csharp\4-convercoesEoutrosTipos\bin\Debug\net6.0\4-convercoesEoutrosTipos.dll
+C:\Users\ALUNO - CT SISTEMA\OneDrive - SESISENAISP - Escolas\Documentos\logica\C#\aprendendo csharp\4-convercoesEoutrosTipos\bin\Debug\net6.0\4-convercoesEoutrosTipos.pdb
+C:\Users\ALUNO - CT SISTEMA\OneDrive - SESISENAISP - Escolas\Documentos\logica\C#\aprendendo csharp\4-convercoesEoutrosTipos\obj\Debug\net6.0\4-convercoesEoutrosTipos.csproj.AssemblyReference.cache
+C:\Users\ALUNO - CT SISTEMA\OneDrive - SESISENAISP - Escolas\Documentos\logica\C#\aprendendo csharp\4-convercoesEoutrosTipos\obj\Debug\net6.0\4-convercoesEoutrosTipos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ALUNO - CT SISTEMA\OneDrive - SESISENAISP - Escolas\Documentos\logica\C#\aprendendo csharp\4-convercoesEoutrosTipos\obj\Debug\net6.0\4-convercoesEoutrosTipos.AssemblyInfoInputs.cache
+C:\Users\ALUNO - CT SISTEMA\OneDrive - SESISENAISP - Escolas\Documentos\logica\C#\aprendendo csharp\4-convercoesEoutrosTipos\obj\Debug\net6.0\4-convercoesEoutrosTipos.AssemblyInfo.cs
+C:\Users\ALUNO - CT SISTEMA\OneDrive - SESISENAISP - Escolas\Documentos\logica\C#\aprendendo csharp\4-convercoesEoutrosTipos\obj\Debug\net6.0\4-convercoesEoutrosTipos.csproj.CoreCompileInputs.cache
+C:\Users\ALUNO - CT SISTEMA\OneDrive - SESISENAISP - Escolas\Documentos\logica\C#\aprendendo csharp\4-convercoesEoutrosTipos\obj\Debug\net6.0\4-convercoesEoutrosTipos.dll
+C:\Users\ALUNO - CT SISTEMA\OneDrive - SESISENAISP - Escolas\Documentos\logica\C#\aprendendo csharp\4-convercoesEoutrosTipos\obj\Debug\net6.0\refint\4-convercoesEoutrosTipos.dll
+C:\Users\ALUNO - CT SISTEMA\OneDrive - SESISENAISP - Escolas\Documentos\logica\C#\aprendendo csharp\4-convercoesEoutrosTipos\obj\Debug\net6.0\4-convercoesEoutrosTipos.pdb
+C:\Users\ALUNO - CT SISTEMA\OneDrive - SESISENAISP - Escolas\Documentos\logica\C#\aprendendo csharp\4-convercoesEoutrosTipos\obj\Debug\net6.0\4-convercoesEoutrosTipos.genruntimeconfig.cache
+C:\Users\ALUNO - CT SISTEMA\OneDrive - SESISENAISP - Escolas\Documentos\logica\C#\aprendendo csharp\4-convercoesEoutrosTipos\obj\Debug\net6.0\ref\4-convercoesEoutrosTipos.dll
